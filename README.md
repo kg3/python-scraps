@@ -5,7 +5,7 @@
   translates words through google and lays out the result into a pdf with ready to print flash cards.  Can use any two languages to create words.  
   1. TODO:
     - several languages that don't translate leave a word as the translated-from word
-    - Unicode is kind of a bitch, probably some errors in there.
+    - Unicode is kind of a bitch to gor from Left-Right languages and Right-Left in the same document, probably some errors in there.
       
 ### fib_no_good_rec_example.py
   shows how fibonacci is the worst example to demonstrate recursion with programming ( destroys the stack on 40+ on most systems )
