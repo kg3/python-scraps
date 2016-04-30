@@ -17,3 +17,5 @@
 
 # netimepad_file.py
   create large random onetimepad files with an SDR using rtl_entropy
+
+# true_crack_brute_forcer.py
