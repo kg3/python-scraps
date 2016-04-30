@@ -15,7 +15,7 @@
 # mortars.py
   A presentation for Physics 2 that demonstrated the physics behind how mortars work.
 
-# netimepad_file.py
+# onetimepad_file.py
   create large random onetimepad files with an SDR using rtl_entropy
 
 # true_crack_brute_forcer.py
