@@ -19,3 +19,4 @@
   create large random onetimepad files with an SDR using rtl_entropy
 
 # true_crack_brute_forcer.py
+  without complicated crypto, use truecrypt to brute-force itself of forgotten passwords
