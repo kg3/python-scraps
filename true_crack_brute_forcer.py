@@ -2,7 +2,7 @@
 '''
 Modify tckeyfilecrack.py for keyfile directory and no keyfile directory
 Cycle through password list
-Only making script because Truecrypt doesn't work with cascade crypto
+Only making script because tckeyfilecrack.py doesn't work with cascade crypto
 Using Truecrypt to Crack itself, so do don't have to configure specialized crypto code.
 !!! MUST RUN AS SUDO !!!
 '''
