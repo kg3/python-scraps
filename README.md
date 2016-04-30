@@ -13,7 +13,7 @@
   see what a billion dollars can get you
 
 # mortars.py
-  A presentation for Physics 2 that demonstrated the physics behind how mortars work.
+  A presentation for Physics 2 that demonstrated the equations behind how mortars work.
 
 # onetimepad_file.py
   create large random onetimepad files with an SDR using rtl_entropy
