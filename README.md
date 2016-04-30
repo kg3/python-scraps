@@ -16,4 +16,4 @@
   A presentation for Physics 2 that demonstrated the physics behind how mortars work.
 
 # netimepad_file.py
-  create large randome onetimepad files with an SDR using rtl_entropy
+  create large random onetimepad files with an SDR using rtl_entropy
