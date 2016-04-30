@@ -22,4 +22,4 @@
   without complicated crypto, use truecrypt to brute-force itself of forgotten passwords
   
 # generate_user_credentials.py
-  An automation script that reads a spreedsheat of user names and emails then generates a text file with different credentials.
+  reads a spreedsheat of user names and emails then generates a text file for each user containing different credentials.
