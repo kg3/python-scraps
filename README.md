@@ -7,7 +7,7 @@
       - Unicode is kind of a bitch, probably some errors in there.
       
 # fib_no_good_rec_example.py
-  shows how fibonacci is the worst example to demonstrate recursion with programming ( destorys the stack in 40+ on most systems )
+  shows how fibonacci is the worst example to demonstrate recursion with programming ( destroys the stack in 40+ on most systems )
 
 # vizualize3commas.py
   see what a billion dollars can get you
